@@ -1,0 +1,12 @@
+.standard{
+    font-family: Helvetica,Times 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+
+.standard#first{
+    background-color: black;
+    color:hsl(0,100%,100%);
+}
+.standard#second{
+    background-color: hsl(61, 77%, 50%);
+}
